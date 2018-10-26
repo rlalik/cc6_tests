@@ -56,6 +56,7 @@ target_link_libraries(tests ComptonCamera6)
 
 # make tests here
 # t2
+# test3
 
 #---Locating Doxygen and generating documentation 
 find_package(Doxygen)
