@@ -54,6 +54,7 @@ target_link_libraries(cmreco ComptonCamera6)
 target_link_libraries(mlem ComptonCamera6)
 target_link_libraries(tests ComptonCamera6)
 
+# make tests here
 
 #---Locating Doxygen and generating documentation 
 find_package(Doxygen)
